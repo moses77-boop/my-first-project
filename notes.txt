@@ -2,3 +2,4 @@ My First Git Project
 
 Today I'm learning Git!
 This is my first commit.
+I just learned how to publish repo's to GitHub using VS Code.
